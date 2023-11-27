@@ -11574,11 +11574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\taryn\\hendrix\\CSCI 340\\tarynengland.github.io\\csci340lab9\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "C:\\Users\\taryn\\Hendrix\\CSCI 340\\tarynengland.github.io\\csci340lab9\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\taryn\\hendrix\\CSCI 340\\tarynengland.github.io\\csci340lab9\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "C:\\Users\\taryn\\Hendrix\\CSCI 340\\tarynengland.github.io\\csci340lab9\\csci340lab9\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\taryn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\taryn\\hendrix\\CSCI 340\\tarynengland.github.io\\csci340lab9\\csci340lab9\\ContosoUniversity\\obj\\",
+      "outputPath": "C:\\Users\\taryn\\Hendrix\\CSCI 340\\tarynengland.github.io\\csci340lab9\\csci340lab9\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\taryn\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -11653,7 +11653,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
